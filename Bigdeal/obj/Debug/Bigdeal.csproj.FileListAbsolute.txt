@@ -1,0 +1,217 @@
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Electronic.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+C:\Users\Dell\Desktop\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+D:\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+D:\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+D:\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Electronic.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+D:\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Electronic.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\Users\bhatt\Downloads\BD\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.gif.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.console.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About_us.resources
+C:\Users\bhatt\OneDrive\Desktop\uid project\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.cart.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+D:\video\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+D:\video\dup_ed\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About_us.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.cart.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.console.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.gif.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+D:\video\dup_ed\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About_us.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.cart.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.console.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.gif.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\Users\Dell\Downloads\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
+C:\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe.config
+C:\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.exe
+C:\bigdeal\Bigdeal\Bigdeal\bin\Debug\Bigdeal.pdb
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.AssemblyReference.cache
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.About_us.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.access.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Baby.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Boys.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.cart.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.console.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form1.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form2.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form3.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form4.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Form5.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.gif.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.health.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Home.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.motor.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Pet.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Properties.Resources.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.shoes.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.Sport.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.TV.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.watches.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.women.resources
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.GenerateResource.cache
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.csproj.CoreCompileInputs.cache
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.exe
+C:\bigdeal\Bigdeal\Bigdeal\obj\Debug\Bigdeal.pdb
